@@ -9,7 +9,7 @@
   "quoteProps": "as-needed",
   "requirePragma": false,
   "semi": true,
-  "singleQuote": true,
+  "singleQuote": false,
   "tabWidth": 2,
   "trailingComma": "all",
   "useTabs": false,
@@ -20,7 +20,15 @@
       "options": {
         "semi": false,
         "singleQuote": true,
-        "printWidth": 80
+        "printWidth": 0
+      }
+    },
+    {
+      "files": ["*.json"],
+      "options": {
+        "semi": false,
+        "singleQuote": false,
+        "printWidth": 120
       }
     }
   ]

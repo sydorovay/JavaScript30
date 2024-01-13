@@ -1,7 +1,0 @@
-{
-	"editor.defaultFormatter": "esbenp.prettier-vscode",
-	"css.format.enable": true,
-	"less.format.enable": true,
-	"scss.format.enable": true,
-	"eslint.format.enable": true
-}
